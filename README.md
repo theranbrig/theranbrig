@@ -1,6 +1,6 @@
 ![Brigowatz Building cool stuff is my game!](https://res.cloudinary.com/dq7uyauun/image/upload/v1595982803/Screen_Shot_2020-07-29_at_9.28.54_AM.png)
 
-##[theran.dev](https://theran.dev)
+## [theran.dev](https://theran.dev)
 
 I'm a Full Stack Web Developer who primarily works in the front end.  I am a reformed teacher turned programmer who loves all things code and technology.  I was born and raised in Wisconsin and then saw the light by becoming a Gopher at The University of Minnesota (Row the Boat!). I have lived in South Korea for the past 12 years and made a great life with my amazing wife and hilarious son.  
 
